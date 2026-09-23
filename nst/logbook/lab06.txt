@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - <ayesha> - <e26b07f0895>
+SETUP: my working directory is /Users/ayeshasiddiqua/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show about 20 items
